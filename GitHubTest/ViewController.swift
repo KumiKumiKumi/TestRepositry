@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         //add2
         println("hello")
         println("hello2")
+        println("good bye")
         
     }
 
