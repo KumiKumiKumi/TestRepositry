@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         //add
         //add2
         println("hello")
+        println("hello2")
+        
     }
 
     override func didReceiveMemoryWarning() {
