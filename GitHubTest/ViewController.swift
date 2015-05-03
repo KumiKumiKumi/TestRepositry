@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         //test
         //add
+        //add2
     }
 
     override func didReceiveMemoryWarning() {
